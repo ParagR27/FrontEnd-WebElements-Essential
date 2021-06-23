@@ -5,7 +5,7 @@
  4. Create Hyperlinks inside conatiner using anchor tag ( as many icons you want)
  5. Insert Icons inside each Hyperlink ( Grab Icons from Google's Material Design). 
  6. Open CSS file and write styling for the HTML file.
- 7. CSS Tips : use flexbox, change flex direction property and align items within flex container, 
+ 7. CSS Tips : set width, height and padding, use flexbox, change flex direction property and align items within flex container, 
                set color and background wherever required, use pseudo codes
                
 ## Note
