@@ -1,0 +1,46 @@
+/* body styles */
+body{
+    background-color: blueviolet;
+}
+
+/* vertical icon bar container  */
+.vertical-icon-bar{
+    margin-top:10%;
+    margin-left: 1%;
+    background-color: cornsilk;
+    display: inline-flex;
+    
+    padding: 20px;
+    flex-direction: column;
+    justify-content: space-around;
+    border-radius: 20px;
+    align-items: center;
+    position: fixed;
+}
+/* vertical icon bar item  */
+.vertical-icon-bar .vertical-icon-bar-item{
+    width:100%;
+    text-align: center;
+    font-size: 48px;
+    text-decoration: none; 
+    color:black;
+    padding: inherit;
+} 
+.vertical-icon-bar-item:visited{
+    color: black
+}
+
+.vertical-icon-bar-item:hover{
+    background-color: black;
+    color:white;
+    font-size: 64px;
+}
+
+/* Logo Design */
+.vertical-icon-bar-item-logo{
+    font-size: 1.5rem;
+    padding: inherit;
+    width:100%;
+    text-align: center;
+
+}
