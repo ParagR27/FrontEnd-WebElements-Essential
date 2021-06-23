@@ -12,4 +12,4 @@
 This project does not follow responsive design using css media queries
  
 
-![github-small](IconBar/vertiacliconbar-output.png)
+![github-small](/IconBar/vertiacliconbar-output.png)
