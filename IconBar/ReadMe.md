@@ -9,5 +9,7 @@
                set color and background wherever required, use pseudo codes
                
 ## Note
-This project does not follow responsive design using css media queries.
+This project does not follow responsive design using css media queries
  
+
+![](IconBar/vertiacliconbar-output.png)
