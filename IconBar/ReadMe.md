@@ -13,3 +13,6 @@ This project does not follow responsive design using css media queries
  
 ## Vertical Icon Bar Output 
 ![github-small](/IconBar/vertiacliconbar-output.png)
+
+## Horizontal Icon Bar Output
+![github-small](/IconBar/horizontal-iconbar-output.png)
